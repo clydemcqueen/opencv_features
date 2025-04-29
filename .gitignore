@@ -1,0 +1,6 @@
+# Don't upload results during development and testing
+temp_results/
+
+# CLion stuff
+.idea/
+cmake-build-*/
